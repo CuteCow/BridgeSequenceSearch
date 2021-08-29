@@ -7,8 +7,8 @@ import os
 
 #pattern = re.match(r'(/d+)')
 
-USERNAME = "James_H"
-PASSWORD = "Annemarie3"
+USERNAME = "Username"
+PASSWORD = "Password"
 
 LOGIN_URL = "https://www.bridgebase.com/myhands/myhands_login.php?t=%2Fmyhands%2Findex.php%3F"
 URL = "https://www.bridgebase.com/vugraph_archives/vugraph_archives.php?v3b="
